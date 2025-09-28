@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Baisc semantic tags</title>
 </head>
-
 <body>
     <header>
         <h1><p><pre>Fashionista</pre></h1>(elegance in your soul)</pre></p>
@@ -36,14 +35,24 @@
                     <section>Jaipur</section>
                     <section>Lucknow</section>
                     <section>Kanpur</section>
+                    <!--section is started from here-->
+                    <!-- using hyperlink for text,image,audio,video-->
+                    <img src="https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw" alt="height=200px">
 
-                </main>
+                    <audio controls>
+                    <source src="https://pagalnew.com/128-downloads/51957" type="audio/mp3">
 
 
-                </main>
+                </audio>
 
-    
-        </main>
+                <p>Embedded video(Iframe)</p>
+                <Iframe width="200" height="100" src="<iframe width="1536" height="615" src="https://www.youtube.com/embed/HcOc7P5BMi4?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i" title="HTML Tutorial for Beginners | Complete HTML with Notes &amp; Code" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
+
+
+
+                    
+                    </main>
+
     </br>
     <footer>
        <h6>For any queries</h6>
